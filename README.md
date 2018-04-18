@@ -15,5 +15,8 @@ magick mogrify -filter Triangle -define filter:support=2 -unsharp 0.25x0.25+8+0.
 The '-quality 50' value you can be changed. For example, change it to '-quality -75' if you only want to compress by 75%. 
 
 
+If you want to verify the specific filesize changes of each file, run dir > list.txt before and then dir > list2.txt after. You can compare the results in Excel or another tool of your choice. 
+
+
 
 
