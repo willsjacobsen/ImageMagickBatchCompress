@@ -1,5 +1,5 @@
 # ImageMagickBatchCompress
-Script to Batch Compress Images
+Script to Batch Compress JPG Images
 
 
 Install Image Magick on your machine - https://www.imagemagick.org/script/download.php
